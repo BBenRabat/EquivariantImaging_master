@@ -26,4 +26,3 @@ Mon travail s'est appuyé sur la bibliothèque open-source [**DeepInverse**](htt
 
 * **Démonstration de l'apport temporel** : Mise en évidence qu'intégrer la transformation de symétrie temporelle améliore systématiquement la reconstruction, en particulier aux niveaux de bruit faibles.
 
-*(Optionnel : Insérez ici une belle image de vos résultats côte à côte)*
